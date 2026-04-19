@@ -1,0 +1,9 @@
+
+---
+
+# 📦 2. requirements.txt
+
+```txt
+pandas
+numpy
+matplotlib
