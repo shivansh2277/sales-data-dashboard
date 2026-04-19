@@ -1,0 +1,541 @@
+Order_ID,Date,Customer_Name,City,Product,Category,Quantity,Price,Total_Sales
+ORD-1229,2023-03-08,Jennifer Garcia,Chicago,SSD 1TB,Storage,1.0,99.99,99.99
+ORD-1073,2023-09-14,Jennifer Jones,San Diego,USB-C Hub,Accessories,9.0,49.99,449.91
+ORD-1083,2023-10-27,David Miller,Dallas,USB-C Hub,Accessories,2.0,49.99,99.98
+ORD-1086,2023-08-05,Mary Jones,Philadelphia,Webcam HD,Electronics,2.0,79.99,159.98
+ORD-1469,2023-07-12,Jessica Jones,Dallas,Webcam HD,Electronics,2.0,79.99,159.98
+ORD-1077,2023-03-21,Patricia Davis,Phoenix,Webcam HD,Electronics,9.0,79.99,719.91
+ORD-1297,2023-10-08,Barbara Brown,Philadelphia,Laptop Pro,Electronics,1.0,1299.99,1299.99
+ORD-1418,2023-11-09,Sarah Johnson,Dallas,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1342,,Karen Miller,Chicago,"Monitor 27""",Electronics,10.0,349.99,3499.9
+ORD-1383,2023-01-26,Joseph Miller,Phoenix,Laptop Pro,Electronics,9.0,1299.99,11699.91
+ORD-1006,2023-03-15,Linda Wilson,Austin,SSD 1TB,Storage,7.0,99.99,699.93
+ORD-1117,2023-09-20,Jennifer Smith,Austin,Laptop Pro,Electronics,2.0,1299.99,2599.98
+ORD-1410,2023-08-16,Richard Johnson,Austin,LED Desk Lamp,Furniture,8.0,34.99,279.92
+ORD-1075,2023-07-10,Linda Davis,,"Monitor 27""",Electronics,10.0,349.99,3499.9
+ORD-1272,26/09/2023,Charles Moore,Philadelphia,Wireless Mouse,Accessories,5.0,29.99,149.95
+ORD-1195,2023-12-02,Robert Brown,Philadelphia,USB-C Hub,Accessories,7.0,49.99,349.93
+ORD-1494,2023-12-08,Lisa Jones,San Antonio,Mechanical Keyboard,Accessories,6.0,89.99,539.94
+ORD-1101,2023-07-20,John Jones,Philadelphia,Webcam HD,Electronics,5.0,79.99,399.95
+ORD-1458,2023-03-17,Michael Wilson,New York,Wireless Mouse,Accessories,2.0,29.99,59.98
+ORD-1055,2023-05-28,Joseph Jones,Phoenix,USB-C Hub,Accessories,5.0,49.99,
+ORD-1373,2023-04-06,Joseph Wilson,New York,Webcam HD,Electronics,8.0,79.99,639.92
+ORD-1185,2023-10-14,Joseph Brown,Chicago,Mechanical Keyboard,Accessories,9.0,89.99,809.91
+ORD-1298,2023-02-28,Charles Smith,Dallas,USB-C Hub,Accessories,4.0,49.99,199.96
+ORD-1167,2023-05-05,Linda Jones,Los Angeles,Wireless Mouse,Accessories,6.0,29.99,179.94
+ORD-1479,2023-04-13,Susan Smith,Phoenix,Wireless Mouse,Accessories,2.0,29.99,59.98
+ORD-1002,2023-05-16,Joseph Wilson,San Antonio,Headphones,Audio,2.0,149.99,299.98
+ORD-1180,2023-11-03,Richard Wilson,San Antonio,USB-C Hub,Accessories,7.0,49.99,349.93
+ORD-1357,2023-02-06,John Brown,Los Angeles,Laptop Pro,Electronics,10.0,1299.99,12999.9
+ORD-1010,07/06/2023,Linda Moore,Los Angeles,Laptop Pro,Electronics,10.0,1299.99,12999.9
+ORD-1311,2023-03-27,David Davis,Los Angeles,LED Desk Lamp,Furniture,3.0,34.99,104.97
+ORD-1371,2023-07-12,Thomas Smith,New York,LED Desk Lamp,Furniture,3.0,34.99,104.97
+ORD-1176,2023-02-09,Linda Davis,Houston,USB-C Hub,Accessories,7.0,,349.93
+ORD-1245,2023-07-26,Lisa Miller,,LED Desk Lamp,Furniture,10.0,34.99,349.9
+ORD-1464,2023-10-21,Charles Davis,Los Angeles,SSD 1TB,Storage,5.0,99.99,499.95
+ORD-1349,2023-05-22,Richard Brown,,Mechanical Keyboard,Accessories,7.0,89.99,629.93
+ORD-1223,2023-05-21,Robert Smith,Austin,Headphones,Audio,3.0,149.99,449.97
+ORD-1414,2023-07-27,Karen Brown,San Diego,LED Desk Lamp,Furniture,7.0,34.99,244.93
+ORD-1072,2023-06-08,Mary Moore,Chicago,USB-C Hub,Accessories,2.0,49.99,99.98
+ORD-1196,2023-02-08,John Miller,Phoenix,LED Desk Lamp,Furniture,5.0,34.99,174.95
+ORD-1268,2023-08-26,Jennifer Smith,Philadelphia,Mechanical Keyboard,Accessories,8.0,89.99,719.92
+ORD-1321,2023-12-27,John Wilson,Dallas,Headphones,Audio,7.0,149.99,1049.93
+ORD-1488,2023-10-04,Mary Miller,Los Angeles,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1140,2023-05-20,Lisa Moore,New York,Mechanical Keyboard,Accessories,9.0,89.99,809.91
+ORD-1457,2023-12-11,John Brown,San Diego,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1173,2023-11-21,Richard Garcia,Los Angeles,Wireless Mouse,,2.0,29.99,59.98
+ORD-1079,2023-10-17,Karen Brown,Houston,LED Desk Lamp,Furniture,1.0,34.99,
+ORD-1362,2023-10-20,Mary Davis,Chicago,"Monitor 27""",Electronics,9.0,349.99,3149.91
+ORD-1396,2023-12-11,Sarah Smith,San Diego,USB-C Hub,Accessories,4.0,49.99,199.96
+ORD-1287,2023-03-03,Jessica Jones,Chicago,Wireless Mouse,Accessories,3.0,,89.97
+ORD-1030,2023-12-07,Jennifer Moore,San Antonio,Headphones,Audio,,149.99,749.95
+ORD-1235,2023-01-18,David Jones,Los Angeles,Mechanical Keyboard,Accessories,3.0,89.99,269.97
+ORD-1511,2023-08-01,Richard Miller,Austin,LED Desk Lamp,Furniture,6.0,34.99,209.94
+ORD-1497,2023-01-10,Thomas Williams,Houston,Laptop Stand,Accessories,8.0,39.99,319.92
+ORD-1009,2023-11-17,Thomas Moore,Philadelphia,Laptop Stand,Accessories,3.0,39.99,119.97
+ORD-1253,2023-09-04,William Garcia,Phoenix,LED Desk Lamp,Furniture,10.0,34.99,349.9
+ORD-1325,2023-06-25,Jennifer Davis,Houston,Mechanical Keyboard,Accessories,5.0,89.99,449.95
+ORD-1104,2023-07-06,Linda Davis,San Diego,LED Desk Lamp,Furniture,3.0,34.99,104.97
+ORD-1446,2023-04-27,Jessica Brown,Houston,Mechanical Keyboard,Accessories,6.0,89.99,539.94
+ORD-1370,2023-06-06,James Garcia,Dallas,"Monitor 27""",Electronics,1.0,349.99,349.99
+ORD-1158,2023-03-10,William Brown,Los Angeles,Laptop Stand,Accessories,7.0,39.99,279.93
+ORD-1249,2023-08-17,Sarah Moore,Philadelphia,Wireless Mouse,Accessories,1.0,29.99,29.99
+ORD-1316,2023-05-22,Richard Brown,Dallas,"Monitor 27""",Electronics,9.0,349.99,3149.91
+ORD-1076,2023-07-29,Mary Smith,San Diego,Wireless Mouse,Accessories,8.0,29.99,239.92
+ORD-1234,2023-03-27,Sarah Miller,San Antonio,Laptop Pro,Electronics,1.0,1299.99,1299.99
+ORD-1070,2023-10-22,Barbara Smith,San Antonio,SSD 1TB,Storage,2.0,99.99,199.98
+ORD-1486,2023-03-04,Sarah Brown,Chicago,Laptop Stand,,5.0,39.99,199.95
+ORD-1460,2023-10-08,Barbara Moore,Phoenix,Webcam HD,Electronics,8.0,79.99,639.92
+ORD-1368,2023-07-07,David Garcia,New York,LED Desk Lamp,Furniture,2.0,34.99,69.98
+ORD-1271,2023-07-14,Lisa Smith,Chicago,SSD 1TB,Storage,10.0,99.99,999.9
+ORD-1132,2023-06-23,Susan Williams,Dallas,Wireless Mouse,Accessories,,,89.97
+ORD-1078,2023-11-27,Richard Jones,Los Angeles,Webcam HD,Electronics,2.0,79.99,159.98
+ORD-1149,2023-09-16,Karen Williams,Dallas,Wireless Mouse,Accessories,10.0,29.99,299.9
+ORD-1335,2023-03-27,David Miller,Austin,"Monitor 27""",Electronics,8.0,349.99,2799.92
+ORD-1208,2023-01-30,Jessica Johnson,Austin,"Monitor 27""",Electronics,7.0,349.99,2449.93
+ORD-1068,2023-07-15,Linda Davis,Chicago,USB-C Hub,Accessories,3.0,49.99,149.97
+ORD-1250,2023-10-20,Michael Brown,Houston,"Monitor 27""",Electronics,1.0,,349.99
+ORD-1063,2023-10-10,Richard Davis,Houston,USB-C Hub,Accessories,8.0,49.99,399.92
+ORD-1234,2023-03-27,Sarah Miller,San Antonio,Laptop Pro,Electronics,1.0,1299.99,1299.99
+ORD-1209,2023-06-27,William Williams,Phoenix,Laptop Pro,Electronics,3.0,1299.99,3899.97
+ORD-1082,2023-02-01,Richard Miller,San Diego,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1192,2023-08-14,Jessica Johnson,Houston,Webcam HD,Electronics,9.0,79.99,719.91
+ORD-1033,2023-12-02,Patricia Miller,Dallas,Mechanical Keyboard,Accessories,7.0,89.99,629.93
+ORD-1084,2023-08-20,Jessica Garcia,San Antonio,Wireless Mouse,Accessories,9.0,29.99,269.91
+ORD-1177,2023-06-21,Lisa Williams,Austin,LED Desk Lamp,Furniture,7.0,34.99,244.93
+ORD-1000,2023-03-13,Karen Johnson,New York,Wireless Mouse,,1.0,29.99,
+ORD-1011,2023-03-26,Lisa Miller,Dallas,USB-C Hub,Accessories,3.0,49.99,149.97
+ORD-1472,2023-12-18,Patricia Garcia,Austin,SSD 1TB,,10.0,99.99,999.9
+ORD-1022,2023-06-25,William Wilson,New York,Laptop Stand,Accessories,3.0,39.99,
+ORD-1356,2023-04-17,John Davis,New York,Webcam HD,Electronics,4.0,79.99,319.96
+ORD-1090,2023-08-06,Joseph Miller,Dallas,USB-C Hub,Accessories,10.0,49.99,302.97
+ORD-1089,2023-08-03,Jennifer Garcia,Philadelphia,Laptop Pro,Electronics,2.0,1299.99,2599.98
+ORD-1153,2023-08-26,Karen Miller,Houston,Mechanical Keyboard,Accessories,1.0,89.99,89.99
+ORD-1277,2023-04-24,,Phoenix,Webcam HD,Electronics,8.0,79.99,639.92
+ORD-1137,2023-08-24,David Wilson,Phoenix,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1376,2023-10-05,Robert Moore,Houston,Headphones,Audio,5.0,149.99,749.95
+ORD-1131,2023-04-10,Barbara Johnson,San Diego,Webcam HD,Electronics,1.0,79.99,79.99
+ORD-1429,2023-08-21,William Miller,Philadelphia,"Monitor 27""",Electronics,8.0,349.99,2799.92
+ORD-1018,2023-11-01,Linda Miller,Austin,Laptop Pro,Electronics,9.0,1299.99,11699.91
+ORD-1280,2023-04-01,Jennifer Williams,Austin,Headphones,Audio,10.0,149.99,1499.9
+ORD-1448,2023-06-25,Barbara Moore,Austin,Wireless Mouse,Accessories,8.0,29.99,239.92
+ORD-1015,2023-02-08,Karen Johnson,Dallas,USB-C Hub,Accessories,7.0,49.99,349.93
+ORD-1307,2023-11-06,,San Diego,Webcam HD,Electronics,6.0,79.99,479.94
+ORD-1039,2023-08-25,William Miller,San Diego,Laptop Pro,Electronics,2.0,1299.99,2599.98
+ORD-1498,2023-10-17,Mary Wilson,San Diego,Laptop Stand,Accessories,10.0,39.99,399.9
+ORD-1148,2023-08-30,Michael Brown,Austin,LED Desk Lamp,Furniture,6.0,34.99,209.94
+ORD-1046,2023-06-24,Lisa Jones,Dallas,USB-C Hub,Accessories,8.0,49.99,399.92
+ORD-1093,2023-05-29,James Garcia,Austin,Headphones,Audio,10.0,149.99,1499.9
+ORD-1406,2023-08-27,Linda Williams,Austin,Wireless Mouse,Accessories,8.0,29.99,239.92
+ORD-1182,2023-04-24,Thomas Wilson,Austin,Webcam HD,Electronics,7.0,79.99,559.93
+ORD-1244,2023-02-21,Charles Johnson,Dallas,Headphones,Audio,3.0,149.99,449.97
+ORD-1368,2023-07-07,David Garcia,New York,LED Desk Lamp,Furniture,2.0,34.99,69.98
+ORD-1390,2023-12-11,Lisa Moore,Chicago,Laptop Pro,Electronics,2.0,1299.99,
+ORD-1453,2023-09-29,,Phoenix,Laptop Pro,Electronics,2.0,1299.99,2599.98
+ORD-1352,2023-06-28,Joseph Jones,Austin,Laptop Stand,Accessories,8.0,39.99,319.92
+ORD-1255,2023-04-08,Linda Wilson,San Diego,Laptop Pro,Electronics,10.0,1299.99,12999.9
+ORD-1305,2023-09-23,Susan Miller,San Diego,"Monitor 27""",Electronics,,349.99,2099.94
+ORD-1518,2023-05-14,Mary Williams,Phoenix,Wireless Mouse,Accessories,6.0,29.99,179.94
+ORD-1400,2023-04-08,Sarah Wilson,Philadelphia,SSD 1TB,Storage,9.0,99.99,1014.61
+ORD-1318,2023-01-03,Robert Davis,San Antonio,LED Desk Lamp,Furniture,1.0,34.99,34.99
+ORD-1238,,John Davis,Phoenix,LED Desk Lamp,Furniture,8.0,34.99,279.92
+ORD-1252,2023-12-13,Lisa Miller,New York,Webcam HD,Electronics,8.0,79.99,639.92
+ORD-1489,2023-06-05,Jennifer Davis,Phoenix,Laptop Pro,Electronics,3.0,1299.99,3899.97
+ORD-1384,2023-02-16,Patricia Williams,Dallas,Laptop Stand,Accessories,3.0,39.99,119.97
+ORD-1069,2023-08-15,Charles Jones,San Antonio,SSD 1TB,Storage,5.0,99.99,499.95
+ORD-1382,2023-12-27,Thomas Johnson,New York,LED Desk Lamp,Furniture,10.0,34.99,349.9
+ORD-1322,2023-01-03,Jessica Wilson,Los Angeles,LED Desk Lamp,Furniture,4.0,34.99,139.96
+ORD-1346,2023-03-16,Richard Johnson,Chicago,Laptop Pro,Electronics,6.0,1299.99,7799.94
+ORD-1355,2023-09-06,Mary Moore,San Antonio,USB-C Hub,Accessories,3.0,49.99,149.97
+ORD-1155,2023-01-29,Barbara Brown,Austin,Headphones,Audio,8.0,149.99,1199.92
+ORD-1247,2023-07-28,Thomas Garcia,Dallas,Wireless Mouse,Accessories,4.0,29.99,119.96
+ORD-1124,2023-11-22,William Williams,Austin,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1381,2023-06-16,Linda Miller,New York,USB-C Hub,Accessories,8.0,49.99,399.92
+ORD-1204,2023-04-07,Barbara Smith,Houston,Laptop Pro,Electronics,5.0,1299.99,6499.95
+ORD-1172,2023-09-09,Karen Miller,Austin,Headphones,Audio,6.0,149.99,769.74
+ORD-1211,2023-09-18,,New York,Wireless Mouse,Accessories,10.0,29.99,299.9
+ORD-1397,2023-09-24,David Wilson,Houston,SSD 1TB,Storage,7.0,99.99,699.93
+ORD-1508,2023-06-20,Patricia Williams,Dallas,SSD 1TB,Storage,8.0,99.99,799.92
+ORD-1477,2023-12-30,Patricia Brown,Chicago,LED Desk Lamp,Furniture,9.0,34.99,314.91
+ORD-1210,2023-10-23,Sarah Davis,New York,Headphones,Audio,5.0,149.99,749.95
+ORD-1299,2023-06-19,Linda Johnson,Los Angeles,Wireless Mouse,Accessories,4.0,29.99,119.96
+ORD-1426,2023-12-11,Michael Wilson,Chicago,Headphones,Audio,,,1199.92
+ORD-1019,2023-04-15,David Brown,Chicago,LED Desk Lamp,Furniture,10.0,34.99,349.9
+ORD-1367,2023-11-30,Karen Moore,Dallas,USB-C Hub,Accessories,8.0,49.99,399.92
+ORD-1056,,Charles Moore,Phoenix,Headphones,Audio,6.0,149.99,899.94
+ORD-1218,2023-03-11,Charles Johnson,Chicago,SSD 1TB,Storage,5.0,99.99,499.95
+ORD-1450,2023-01-03,Mary Smith,Dallas,Mechanical Keyboard,Accessories,10.0,89.99,899.9
+ORD-1438,2023-06-07,Patricia Davis,Austin,USB-C Hub,Accessories,1.0,49.99,49.99
+ORD-1363,2023-04-22,David Davis,Austin,"Monitor 27""",Electronics,2.0,349.99,
+ORD-1502,2023-03-13,Charles Wilson,Dallas,Wireless Mouse,Accessories,7.0,29.99,209.93
+ORD-1025,2023-04-01,James Williams,Philadelphia,USB-C Hub,Accessories,4.0,49.99,199.96
+ORD-1278,2023-07-29,Lisa Brown,San Antonio,SSD 1TB,Storage,3.0,99.99,299.97
+ORD-1042,,Richard Miller,Houston,USB-C Hub,Accessories,5.0,49.99,249.95
+ORD-1439,2023-12-14,Patricia Moore,Philadelphia,LED Desk Lamp,Furniture,4.0,34.99,106.85
+ORD-1248,2023-01-30,Joseph Smith,Houston,Laptop Stand,Accessories,10.0,39.99,300.16
+ORD-1432,2023-12-25,Richard Moore,,Laptop Pro,Electronics,1.0,1299.99,1299.99
+ORD-1333,2023-08-19,William Garcia,Dallas,Mechanical Keyboard,Accessories,5.0,,449.95
+ORD-1154,2023-01-09,John Johnson,San Diego,Wireless Mouse,Accessories,1.0,29.99,29.99
+ORD-1126,2023-09-12,Karen Jones,Phoenix,Mechanical Keyboard,Accessories,10.0,89.99,899.9
+ORD-1275,2023-12-01,,New York,SSD 1TB,Storage,,99.99,799.92
+ORD-1361,2023-06-04,,Houston,LED Desk Lamp,Furniture,,34.99,34.99
+ORD-1031,2023-08-15,Thomas Davis,Chicago,LED Desk Lamp,Furniture,10.0,34.99,349.9
+ORD-1113,2023-08-23,,Houston,SSD 1TB,Storage,3.0,99.99,299.97
+ORD-1380,2023-04-09,Jessica Smith,San Antonio,USB-C Hub,Accessories,7.0,49.99,349.93
+ORD-1473,2023-07-04,Susan Smith,Dallas,SSD 1TB,Storage,3.0,99.99,299.97
+ORD-1369,2023-04-30,Susan Williams,Los Angeles,SSD 1TB,Storage,10.0,99.99,999.9
+ORD-1057,2023-11-22,John Davis,Philadelphia,SSD 1TB,Storage,5.0,99.99,499.95
+ORD-1332,2023-11-19,David Davis,Dallas,Laptop Pro,Electronics,,1299.99,3899.97
+ORD-1024,2023-01-21,Michael Brown,Philadelphia,USB-C Hub,Accessories,1.0,49.99,49.99
+ORD-1017,2023-01-30,Karen Smith,New York,Laptop Stand,Accessories,8.0,39.99,319.92
+ORD-1456,2023-08-05,John Garcia,San Diego,Webcam HD,Electronics,6.0,79.99,479.94
+ORD-1066,2023-09-07,Mary Moore,Phoenix,Laptop Stand,Accessories,7.0,39.99,279.93
+ORD-1228,2023-04-07,Sarah Wilson,San Diego,Webcam HD,Electronics,10.0,79.99,
+ORD-1482,2023-09-11,Barbara Wilson,Los Angeles,Webcam HD,Electronics,2.0,79.99,159.98
+ORD-1513,2023-08-21,Sarah Johnson,Houston,Wireless Mouse,Accessories,1.0,29.99,29.99
+ORD-1442,2023-09-25,Linda Williams,New York,SSD 1TB,Storage,3.0,99.99,299.97
+ORD-1094,2023-02-10,Barbara Garcia,Chicago,Wireless Mouse,Accessories,4.0,29.99,119.96
+ORD-1184,2023-08-20,Barbara Smith,Los Angeles,Webcam HD,,8.0,79.99,639.92
+ORD-1291,2023-05-25,,Philadelphia,Headphones,Audio,2.0,149.99,299.98
+ORD-1023,2023-12-28,James Johnson,Chicago,USB-C Hub,Accessories,5.0,49.99,249.95
+ORD-1265,2023-12-06,Lisa Moore,San Antonio,Mechanical Keyboard,Accessories,1.0,89.99,89.99
+ORD-1287,2023-03-03,Jessica Jones,Chicago,Wireless Mouse,Accessories,3.0,,89.97
+ORD-1483,2023-08-08,John Davis,Philadelphia,"Monitor 27""",Electronics,8.0,349.99,2799.92
+ORD-1005,2023-01-29,Mary Garcia,Los Angeles,Laptop Stand,Accessories,4.0,39.99,159.96
+ORD-1116,2023-08-07,Joseph Garcia,Philadelphia,Webcam HD,Electronics,5.0,79.99,399.95
+ORD-1045,2023-02-14,Joseph Brown,Austin,LED Desk Lamp,Furniture,5.0,,174.95
+ORD-1231,2023-11-11,Linda Moore,San Antonio,Webcam HD,Electronics,3.0,79.99,239.97
+ORD-1304,2023-03-23,Charles Williams,San Diego,LED Desk Lamp,Furniture,,34.99,104.97
+ORD-1016,2023-07-25,Jennifer Miller,,USB-C Hub,Accessories,7.0,49.99,349.93
+ORD-1048,2023-06-06,Patricia Brown,Dallas,Laptop Stand,Accessories,6.0,39.99,239.94
+ORD-1395,2023-06-03,David Smith,Philadelphia,Mechanical Keyboard,Accessories,5.0,89.99,
+ORD-1003,2023-12-05,Barbara Johnson,Los Angeles,Webcam HD,Electronics,10.0,79.99,799.9
+ORD-1412,2023-06-05,Jessica Garcia,Austin,Webcam HD,,5.0,79.99,399.95
+ORD-1222,2023-06-19,Joseph Smith,Austin,USB-C Hub,Accessories,2.0,49.99,99.98
+ORD-1060,2023-12-30,Karen Smith,Los Angeles,SSD 1TB,Storage,2.0,99.99,263.78
+ORD-1519,2023-03-26,Sarah Williams,San Diego,LED Desk Lamp,Furniture,5.0,34.99,
+ORD-1110,2023-05-30,Lisa Garcia,San Antonio,Laptop Pro,Electronics,9.0,1299.99,11699.91
+ORD-1353,2023-11-23,Jennifer Smith,Philadelphia,"Monitor 27""",Electronics,5.0,349.99,1749.95
+ORD-1289,2023-10-02,Susan Brown,Philadelphia,USB-C Hub,Accessories,9.0,49.99,520.4
+ORD-1029,2023-12-07,Lisa Garcia,Los Angeles,Laptop Stand,Accessories,4.0,39.99,159.96
+ORD-1020,2023-02-21,Michael Wilson,Philadelphia,Wireless Mouse,Accessories,1.0,29.99,29.99
+ORD-1452,2023-01-13,Joseph Williams,San Antonio,USB-C Hub,Accessories,8.0,49.99,399.92
+ORD-1026,2023-07-15,Sarah Brown,San Diego,Mechanical Keyboard,Accessories,5.0,89.99,449.95
+ORD-1007,2023-02-26,Jennifer Miller,San Antonio,USB-C Hub,Accessories,9.0,49.99,449.91
+ORD-1181,2023-05-08,Susan Williams,New York,Laptop Stand,Accessories,10.0,39.99,399.9
+ORD-1500,2023-08-26,Jessica Miller,New York,Mechanical Keyboard,Accessories,1.0,,89.99
+ORD-1108,2023-08-30,Robert Davis,New York,Webcam HD,Electronics,,79.99,239.97
+ORD-1037,2023-07-14,Susan Jones,San Antonio,LED Desk Lamp,Furniture,1.0,34.99,34.99
+ORD-1157,2023-03-18,Jennifer Wilson,Houston,Headphones,Audio,9.0,149.99,1349.91
+ORD-1514,2023-11-04,Barbara Brown,San Antonio,SSD 1TB,Storage,,99.99,699.93
+ORD-1118,2023-11-06,Joseph Garcia,Los Angeles,Webcam HD,Electronics,6.0,79.99,479.94
+ORD-1114,2023-04-08,Mary Garcia,Philadelphia,Laptop Stand,Accessories,8.0,39.99,319.92
+ORD-1286,2023-11-28,Charles Wilson,Houston,SSD 1TB,Storage,4.0,99.99,399.96
+ORD-1203,2023-08-08,Robert Brown,Los Angeles,Wireless Mouse,Accessories,10.0,29.99,299.9
+ORD-1175,2023-10-14,Linda Moore,San Antonio,"Monitor 27""",Electronics,7.0,349.99,2449.93
+ORD-1225,2023-06-14,Jennifer Smith,Houston,Laptop Stand,,8.0,39.99,319.92
+ORD-1220,2023-01-16,Joseph Wilson,Houston,Laptop Pro,Electronics,5.0,1299.99,6499.95
+ORD-1144,2023-09-16,Michael Johnson,San Diego,Laptop Stand,Accessories,8.0,,319.92
+ORD-1194,2023-11-02,David Jones,Phoenix,Mechanical Keyboard,Accessories,1.0,89.99,89.99
+ORD-1408,2023-06-04,Richard Moore,Austin,Wireless Mouse,Accessories,6.0,29.99,179.94
+ORD-1420,2023-01-27,Barbara Moore,,LED Desk Lamp,Furniture,5.0,34.99,195.09
+ORD-1237,2023-05-02,Richard Moore,San Diego,Laptop Stand,Accessories,9.0,39.99,359.91
+ORD-1281,2023-05-31,Robert Williams,Dallas,LED Desk Lamp,Furniture,4.0,34.99,139.96
+ORD-1403,2023-02-22,Susan Wilson,Chicago,Wireless Mouse,Accessories,1.0,29.99,29.99
+ORD-1361,2023-06-04,,Houston,LED Desk Lamp,Furniture,,34.99,34.99
+ORD-1141,2023-03-12,,Chicago,Headphones,Audio,6.0,149.99,899.94
+ORD-1404,2023-01-26,Sarah Smith,New York,"Monitor 27""",Electronics,10.0,349.99,3499.9
+ORD-1067,2023-01-15,,Phoenix,Wireless Mouse,Accessories,8.0,29.99,239.92
+ORD-1296,2023-10-07,Robert Jones,Philadelphia,Mechanical Keyboard,Accessories,,89.99,269.97
+ORD-1227,2023-07-01,Jennifer Williams,Philadelphia,Mechanical Keyboard,Accessories,10.0,89.99,
+ORD-1168,2023-01-05,John Davis,Philadelphia,Headphones,Audio,7.0,149.99,1049.93
+ORD-1188,2023-03-02,Patricia Williams,Chicago,LED Desk Lamp,Furniture,10.0,34.99,349.9
+ORD-1516,2023-06-20,Sarah Garcia,Austin,"Monitor 27""",Electronics,2.0,,699.98
+ORD-1415,2023-03-06,John Smith,San Diego,Headphones,Audio,3.0,149.99,449.97
+ORD-1416,2023-08-06,Joseph Wilson,San Diego,Headphones,Audio,8.0,149.99,
+ORD-1193,2023-05-02,Charles Garcia,Austin,Wireless Mouse,Accessories,8.0,29.99,239.92
+ORD-1081,2023-02-02,Susan Wilson,San Diego,Laptop Pro,Electronics,3.0,1299.99,3899.97
+ORD-1109,2023-05-02,Mary Brown,Austin,LED Desk Lamp,Furniture,9.0,34.99,314.91
+ORD-1320,2023-12-24,Jennifer Smith,New York,Mechanical Keyboard,Accessories,1.0,89.99,89.99
+ORD-1145,2023-11-09,Richard Miller,Los Angeles,"Monitor 27""",Electronics,10.0,349.99,3499.9
+ORD-1092,2023-12-27,Karen Garcia,New York,SSD 1TB,Storage,7.0,99.99,699.93
+ORD-1152,2023-07-13,Karen Williams,Philadelphia,Headphones,Audio,6.0,149.99,899.94
+ORD-1261,2023-04-26,Susan Jones,San Antonio,Laptop Stand,Accessories,4.0,39.99,80.84
+ORD-1434,2023-02-11,Barbara Brown,New York,Wireless Mouse,Accessories,6.0,29.99,179.94
+ORD-1447,2023-03-11,Michael Garcia,Houston,Mechanical Keyboard,Accessories,,89.99,899.9
+ORD-1394,2023-03-02,Michael Moore,San Antonio,Mechanical Keyboard,Accessories,1.0,89.99,89.99
+ORD-1083,2023-10-27,David Miller,Dallas,USB-C Hub,Accessories,2.0,49.99,99.98
+ORD-1103,2023-09-17,Thomas Smith,Austin,USB-C Hub,Accessories,2.0,49.99,99.98
+ORD-1165,2023-09-05,James Smith,San Antonio,Laptop Pro,,10.0,1299.99,12999.9
+ORD-1163,2023-05-12,Sarah Davis,Philadelphia,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1199,2023-11-29,William Johnson,Phoenix,Headphones,Audio,4.0,149.99,599.96
+ORD-1329,2023-12-19,,San Antonio,SSD 1TB,Storage,2.0,99.99,199.98
+ORD-1074,2023-12-13,Richard Wilson,San Antonio,SSD 1TB,,2.0,99.99,199.98
+ORD-1341,2023-06-26,Karen Smith,San Diego,Laptop Pro,Electronics,9.0,,11699.91
+ORD-1257,2023-08-26,Sarah Smith,Austin,Headphones,Audio,6.0,149.99,899.94
+ORD-1517,2023-03-09,Karen Smith,Phoenix,Headphones,Audio,5.0,149.99,749.95
+ORD-1119,2023-10-15,William Davis,Austin,Mechanical Keyboard,Accessories,2.0,89.99,133.52
+ORD-1310,2023-12-05,John Brown,San Diego,LED Desk Lamp,Furniture,10.0,34.99,349.9
+ORD-1348,2023-10-09,William Davis,Houston,"Monitor 27""",Electronics,6.0,349.99,2099.94
+ORD-1392,2023-11-19,John Davis,Austin,Mechanical Keyboard,Accessories,4.0,89.99,359.96
+ORD-1441,,,Los Angeles,LED Desk Lamp,Furniture,7.0,34.99,244.93
+ORD-1422,2023-04-03,Mary Garcia,Chicago,USB-C Hub,Accessories,5.0,49.99,249.95
+ORD-1274,2023-01-26,Karen Miller,Houston,SSD 1TB,Storage,6.0,99.99,599.94
+ORD-1364,2023-06-28,Jessica Miller,Los Angeles,LED Desk Lamp,Furniture,7.0,34.99,140.27
+ORD-1423,2023-11-23,Charles Garcia,Phoenix,Headphones,Audio,7.0,149.99,1049.93
+ORD-1302,2023-09-17,Charles Moore,Austin,"Monitor 27""",Electronics,,349.99,699.98
+ORD-1036,2023-12-22,Michael Johnson,Philadelphia,Laptop Stand,Accessories,2.0,39.99,79.98
+ORD-1139,2023-05-29,,Los Angeles,Headphones,Audio,6.0,149.99,899.94
+ORD-1253,2023-09-04,William Garcia,Phoenix,LED Desk Lamp,Furniture,10.0,34.99,349.9
+ORD-1515,2023-08-23,Sarah Williams,San Antonio,SSD 1TB,Storage,4.0,99.99,399.96
+ORD-1059,2023-09-23,Sarah Davis,Houston,Laptop Pro,Electronics,9.0,1299.99,11699.91
+ORD-1111,2023-10-11,,New York,Laptop Stand,Accessories,9.0,39.99,
+ORD-1290,2023-01-05,Susan Davis,Austin,SSD 1TB,Storage,9.0,,899.91
+ORD-1354,2023-10-10,Barbara Garcia,Philadelphia,Laptop Stand,Accessories,7.0,39.99,279.93
+ORD-1262,2023-06-22,Robert Garcia,San Diego,"Monitor 27""",Electronics,8.0,349.99,2799.92
+ORD-1399,2023-05-02,Barbara Brown,Chicago,Webcam HD,Electronics,1.0,79.99,79.99
+ORD-1150,2023-09-20,Charles Smith,Phoenix,Laptop Stand,Accessories,8.0,39.99,319.92
+ORD-1266,2023-05-15,Michael Garcia,Phoenix,Wireless Mouse,Accessories,2.0,29.99,59.98
+ORD-1421,2023-05-12,,Chicago,"Monitor 27""",Electronics,3.0,349.99,1049.97
+ORD-1038,2023-07-19,Richard Williams,Chicago,SSD 1TB,Storage,4.0,99.99,399.96
+ORD-1347,2023-05-07,Mary Brown,Los Angeles,Wireless Mouse,Accessories,4.0,29.99,119.96
+ORD-1198,2023-10-17,David Smith,San Diego,Webcam HD,,5.0,79.99,399.95
+ORD-1284,2023-06-01,Karen Smith,San Diego,"Monitor 27""",Electronics,3.0,349.99,1049.97
+ORD-1146,2023-05-17,Barbara Moore,New York,Mechanical Keyboard,Accessories,1.0,89.99,89.99
+ORD-1433,2023-12-19,Sarah Johnson,Philadelphia,Wireless Mouse,Accessories,9.0,29.99,269.91
+ORD-1147,2023-12-27,Patricia Jones,Houston,SSD 1TB,Storage,5.0,99.99,499.95
+ORD-1449,2023-10-30,Joseph Jones,,Headphones,Audio,9.0,149.99,1349.91
+ORD-1485,2023-09-13,Charles Moore,San Antonio,Headphones,Audio,2.0,149.99,299.98
+ORD-1123,2023-08-10,Mary Johnson,Phoenix,Laptop Stand,Accessories,10.0,39.99,399.9
+ORD-1407,,Joseph Williams,Philadelphia,Webcam HD,Electronics,6.0,79.99,479.94
+ORD-1096,2023-08-18,Charles Moore,Philadelphia,SSD 1TB,Storage,8.0,99.99,799.92
+ORD-1143,2023-05-29,James Jones,Los Angeles,Laptop Pro,Electronics,7.0,1299.99,9099.93
+ORD-1239,2023-07-09,Mary Jones,Phoenix,Laptop Stand,Accessories,7.0,39.99,279.93
+ORD-1301,2023-06-06,Patricia Williams,Los Angeles,Webcam HD,Electronics,8.0,79.99,639.92
+ORD-1097,2023-08-20,,Phoenix,"Monitor 27""",Electronics,10.0,349.99,4058.27
+ORD-1436,2023-01-09,,New York,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1293,2023-08-11,John Williams,,Headphones,Audio,,149.99,299.98
+ORD-1388,2023-09-10,Charles Davis,San Diego,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1122,2023-09-03,Jessica Moore,Philadelphia,LED Desk Lamp,Furniture,2.0,34.99,71.21
+ORD-1183,,John Johnson,Chicago,Laptop Stand,Accessories,3.0,39.99,119.97
+ORD-1202,2023-03-26,Michael Williams,Austin,USB-C Hub,Accessories,3.0,49.99,184.8
+ORD-1246,2023-05-24,Patricia Brown,San Diego,"Monitor 27""",Electronics,6.0,349.99,3281.37
+ORD-1338,2023-05-15,John Miller,Houston,Headphones,Audio,9.0,149.99,1349.91
+ORD-1490,2023-03-22,Richard Jones,San Antonio,Laptop Stand,Accessories,9.0,39.99,359.91
+ORD-1462,2023-05-14,Michael Wilson,Philadelphia,Mechanical Keyboard,Accessories,2.0,89.99,164.07
+ORD-1331,2023-04-28,William Brown,San Antonio,USB-C Hub,Accessories,10.0,49.99,499.9
+ORD-1437,2023-02-06,,New York,Laptop Stand,Accessories,3.0,39.99,119.97
+ORD-1312,2023-04-01,Lisa Moore,,Laptop Stand,Accessories,7.0,39.99,279.93
+ORD-1125,2023-11-06,Charles Smith,New York,USB-C Hub,Accessories,3.0,49.99,149.97
+ORD-1334,2023-10-03,Barbara Garcia,Dallas,LED Desk Lamp,Furniture,4.0,34.99,139.96
+ORD-1223,2023-05-21,Robert Smith,Austin,Headphones,Audio,3.0,149.99,449.97
+ORD-1461,2023-03-27,Jennifer Wilson,Chicago,Laptop Pro,Electronics,3.0,1299.99,3899.97
+ORD-1219,2023-03-03,Barbara Moore,Philadelphia,Mechanical Keyboard,Accessories,8.0,89.99,719.92
+ORD-1129,2023-04-08,Sarah Wilson,Phoenix,USB-C Hub,Accessories,6.0,49.99,299.94
+ORD-1506,2023-12-25,Patricia Wilson,San Diego,Mechanical Keyboard,Accessories,5.0,89.99,449.95
+ORD-1323,2023-12-22,Richard Moore,Houston,"Monitor 27""",Electronics,9.0,349.99,3149.91
+ORD-1499,2023-02-02,Jessica Jones,Chicago,Headphones,Audio,7.0,149.99,1049.93
+ORD-1417,2023-10-07,Mary Smith,Philadelphia,SSD 1TB,Storage,4.0,99.99,399.96
+ORD-1496,2023-02-09,Barbara Wilson,San Antonio,LED Desk Lamp,Furniture,9.0,34.99,314.91
+ORD-1393,2023-07-01,Lisa Moore,San Diego,Webcam HD,Electronics,5.0,79.99,399.95
+ORD-1324,2023-07-15,Linda Brown,San Antonio,LED Desk Lamp,Furniture,1.0,,34.99
+ORD-1294,2023-07-28,Richard Miller,San Antonio,"Monitor 27""",Electronics,9.0,349.99,4939.39
+ORD-1405,2023-04-12,Karen Johnson,San Diego,SSD 1TB,Storage,10.0,99.99,999.9
+ORD-1375,2023-07-21,John Miller,Austin,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1336,2023-11-06,William Davis,Philadelphia,Webcam HD,Electronics,6.0,79.99,479.94
+ORD-1112,2023-02-23,David Williams,Dallas,Wireless Mouse,Accessories,6.0,29.99,179.94
+ORD-1179,2023-04-18,Barbara Johnson,San Antonio,USB-C Hub,Accessories,9.0,49.99,650.29
+ORD-1340,2023-06-08,Sarah Wilson,Los Angeles,LED Desk Lamp,Furniture,7.0,34.99,244.93
+ORD-1374,2023-11-17,Thomas Jones,Phoenix,USB-C Hub,Accessories,1.0,49.99,
+ORD-1365,2023-10-17,Thomas Brown,San Antonio,Laptop Pro,Electronics,7.0,1299.99,10753.37
+ORD-1314,2023-12-23,Jessica Williams,Houston,Headphones,Audio,6.0,149.99,899.94
+ORD-1151,2023-01-31,John Davis,,LED Desk Lamp,Furniture,2.0,34.99,66.33
+ORD-1398,17/11/2023,Jennifer Moore,Chicago,Wireless Mouse,Accessories,3.0,29.99,89.97
+ORD-1233,2023-11-22,John Garcia,Phoenix,Wireless Mouse,Accessories,4.0,29.99,119.96
+ORD-1493,2023-12-23,James Garcia,San Antonio,LED Desk Lamp,Furniture,9.0,34.99,314.91
+ORD-1425,2023-09-30,Jessica Moore,Phoenix,Webcam HD,Electronics,9.0,79.99,719.91
+ORD-1164,2023-02-08,Mary Smith,Houston,Laptop Stand,Accessories,1.0,39.99,39.99
+ORD-1317,2023-03-12,Patricia Brown,Chicago,"Monitor 27""",Electronics,10.0,349.99,3499.9
+ORD-1136,2023-07-30,Lisa Davis,New York,Webcam HD,Electronics,7.0,79.99,559.93
+ORD-1197,2023-02-17,Joseph Garcia,Dallas,LED Desk Lamp,Furniture,1.0,34.99,34.99
+ORD-1258,2023-03-19,Michael Garcia,Austin,Wireless Mouse,Accessories,7.0,29.99,209.93
+ORD-1232,2023-10-18,,Austin,LED Desk Lamp,Furniture,7.0,34.99,244.93
+ORD-1115,2023-09-23,John Miller,Austin,Webcam HD,Electronics,3.0,79.99,239.97
+ORD-1120,2023-02-14,David Garcia,Dallas,Wireless Mouse,Accessories,8.0,29.99,239.92
+ORD-1386,2023-07-14,,Philadelphia,Laptop Stand,Accessories,10.0,39.99,399.9
+ORD-1224,2023-04-13,Thomas Brown,Dallas,Laptop Pro,Electronics,2.0,1299.99,2599.98
+ORD-1444,2023-08-31,Jennifer Smith,Philadelphia,Laptop Pro,Electronics,4.0,1299.99,5199.96
+ORD-1474,2023-06-11,Barbara Jones,Philadelphia,Wireless Mouse,Accessories,10.0,29.99,
+ORD-1127,2023-08-26,Lisa Williams,Philadelphia,Wireless Mouse,Accessories,1.0,29.99,29.99
+ORD-1226,2023-04-30,Patricia Brown,Phoenix,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1285,2023-12-23,Mary Miller,Philadelphia,Laptop Stand,Accessories,7.0,39.99,279.93
+ORD-1478,2023-01-22,Mary Wilson,San Diego,Headphones,Audio,2.0,149.99,452.1
+ORD-1512,2023-12-26,Mary Miller,Austin,Mechanical Keyboard,Accessories,2.0,89.99,179.98
+ORD-1107,2023-08-01,Thomas Garcia,Los Angeles,Mechanical Keyboard,Accessories,,89.99,719.92
+ORD-1433,2023-12-19,Sarah Johnson,Philadelphia,Wireless Mouse,Accessories,9.0,29.99,269.91
+ORD-1360,2023-04-20,Karen Jones,San Diego,Headphones,Audio,6.0,149.99,899.94
+ORD-1133,2023-09-21,Lisa Garcia,Austin,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1402,2023-04-18,Michael Jones,Philadelphia,"Monitor 27""",Electronics,1.0,349.99,349.99
+ORD-1044,2023-08-24,Jessica Williams,Phoenix,SSD 1TB,Storage,2.0,99.99,199.98
+ORD-1509,2023-11-25,Joseph Williams,,Webcam HD,Electronics,8.0,79.99,639.92
+ORD-1065,2023-03-15,Robert Johnson,Phoenix,SSD 1TB,Storage,2.0,99.99,199.98
+ORD-1283,2023-01-07,James Miller,New York,Headphones,Audio,9.0,149.99,1349.91
+ORD-1085,2023-02-16,John Miller,Philadelphia,Webcam HD,Electronics,3.0,79.99,239.97
+ORD-1242,2023-04-19,Robert Smith,San Antonio,SSD 1TB,Storage,3.0,99.99,299.97
+ORD-1186,2023-12-27,William Johnson,Dallas,Mechanical Keyboard,Accessories,8.0,89.99,719.92
+ORD-1424,2023-09-30,Richard Davis,Dallas,"Monitor 27""",Electronics,,349.99,2799.92
+ORD-1159,2023-11-05,,Austin,Mechanical Keyboard,Accessories,1.0,89.99,89.99
+ORD-1012,2023-05-07,David Smith,Houston,Webcam HD,Electronics,,79.99,639.92
+ORD-1035,2023-11-23,Thomas Davis,Phoenix,SSD 1TB,Storage,8.0,99.99,799.92
+ORD-1028,2023-06-10,Thomas Johnson,Austin,LED Desk Lamp,Furniture,,34.99,223.16
+ORD-1170,2023-12-31,John Jones,Houston,Webcam HD,Electronics,1.0,79.99,79.99
+ORD-1142,2023-02-15,Linda Wilson,New York,Mechanical Keyboard,Accessories,5.0,89.99,449.95
+ORD-1440,2023-08-01,Susan Wilson,Houston,Webcam HD,Electronics,,79.99,159.98
+ORD-1377,2023-03-16,Charles Williams,Dallas,USB-C Hub,Accessories,7.0,49.99,349.93
+ORD-1221,2023-07-10,John Moore,Los Angeles,Laptop Pro,,4.0,1299.99,5199.96
+ORD-1095,2023-03-17,Robert Jones,Austin,Webcam HD,Electronics,6.0,79.99,479.94
+ORD-1051,2023-09-09,Mary Williams,Austin,"Monitor 27""",Electronics,8.0,349.99,2799.92
+ORD-1240,2023-07-31,Charles Brown,San Antonio,Wireless Mouse,Accessories,2.0,29.99,59.98
+ORD-1411,2023-11-22,Robert Williams,Phoenix,Wireless Mouse,Accessories,4.0,29.99,119.96
+ORD-1351,2023-04-09,,Chicago,Laptop Stand,Accessories,,39.99,239.94
+ORD-1467,2023-07-17,Barbara Garcia,San Diego,Headphones,Audio,3.0,149.99,449.97
+ORD-1178,2023-10-22,David Miller,San Antonio,Webcam HD,Electronics,5.0,79.99,399.95
+ORD-1431,2023-08-15,Patricia Smith,Austin,Headphones,Audio,4.0,,599.96
+ORD-1041,2023-10-16,Joseph Jones,Chicago,USB-C Hub,Accessories,4.0,49.99,199.96
+ORD-1481,2023-12-24,Joseph Johnson,Philadelphia,Mechanical Keyboard,Accessories,9.0,89.99,809.91
+ORD-1428,2023-03-03,Lisa Williams,Austin,Mechanical Keyboard,Accessories,10.0,89.99,899.9
+ORD-1206,,Thomas Jones,Dallas,Wireless Mouse,Accessories,1.0,29.99,29.99
+ORD-1282,2023-05-29,Robert Williams,Philadelphia,Laptop Stand,Accessories,4.0,39.99,159.96
+ORD-1358,2023-10-13,Patricia Moore,San Diego,Mechanical Keyboard,Accessories,10.0,89.99,899.9
+ORD-1254,2023-11-04,David Williams,San Diego,Laptop Stand,Accessories,4.0,39.99,159.96
+ORD-1455,2023-06-21,Patricia Davis,Austin,Wireless Mouse,Accessories,9.0,29.99,269.91
+ORD-1004,2023-12-16,Lisa Williams,Houston,Webcam HD,Electronics,4.0,79.99,319.96
+ORD-1256,2023-05-13,Karen Williams,Philadelphia,Laptop Stand,Accessories,3.0,39.99,119.97
+ORD-1495,2023-10-21,Linda Moore,Los Angeles,Laptop Stand,Accessories,4.0,39.99,159.96
+ORD-1100,2023-02-03,Karen Miller,Austin,LED Desk Lamp,Furniture,1.0,34.99,34.99
+ORD-1226,2023-04-30,Patricia Brown,Phoenix,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1470,2023-06-04,Barbara Davis,San Diego,Headphones,Audio,5.0,149.99,749.95
+ORD-1213,2023-01-24,John Davis,Phoenix,Laptop Pro,Electronics,3.0,,3899.97
+ORD-1465,2023-08-17,David Smith,Houston,"Monitor 27""",Electronics,1.0,349.99,349.99
+ORD-1171,2023-02-10,Susan Smith,Houston,Headphones,Audio,3.0,149.99,449.97
+ORD-1098,2023-01-22,Charles Brown,San Diego,Laptop Stand,Accessories,7.0,39.99,279.93
+ORD-1292,2023-03-27,Karen Wilson,,Mechanical Keyboard,Accessories,6.0,89.99,539.94
+ORD-1215,2023-01-05,James Miller,Phoenix,Mechanical Keyboard,Accessories,9.0,89.99,809.91
+ORD-1061,2023-12-28,Sarah Davis,Dallas,USB-C Hub,Accessories,8.0,49.99,399.92
+ORD-1047,2023-01-09,Linda Miller,Phoenix,Mechanical Keyboard,Accessories,8.0,89.99,719.92
+ORD-1032,2023-04-12,Mary Brown,Austin,Wireless Mouse,Accessories,4.0,29.99,119.96
+ORD-1267,,Charles Davis,Los Angeles,SSD 1TB,Storage,6.0,99.99,599.94
+ORD-1327,2023-10-05,Sarah Garcia,San Diego,Wireless Mouse,Accessories,8.0,29.99,239.92
+ORD-1200,2023-02-18,,Chicago,"Monitor 27""",Electronics,4.0,349.99,
+ORD-1492,2023-10-31,John Jones,Chicago,Laptop Pro,,4.0,1299.99,5199.96
+ORD-1027,2023-05-23,Thomas Miller,Dallas,Mechanical Keyboard,Accessories,,89.99,629.93
+ORD-1471,2023-08-02,Linda Smith,Phoenix,SSD 1TB,Storage,2.0,99.99,199.98
+ORD-1230,2023-07-22,David Jones,Chicago,Webcam HD,Electronics,2.0,79.99,159.98
+ORD-1260,2023-07-26,Sarah Miller,,Wireless Mouse,Accessories,3.0,29.99,89.97
+ORD-1378,2023-07-31,Barbara Davis,Phoenix,USB-C Hub,Accessories,1.0,49.99,
+ORD-1288,2023-01-27,Lisa Jones,Austin,USB-C Hub,Accessories,1.0,49.99,49.99
+ORD-1162,2023-01-09,Charles Moore,Phoenix,Laptop Pro,Electronics,10.0,1299.99,12999.9
+ORD-1391,2023-02-04,Karen Johnson,Chicago,"Monitor 27""",Electronics,6.0,349.99,2099.94
+ORD-1468,2023-08-06,Jessica Williams,Austin,Headphones,Audio,8.0,149.99,1199.92
+ORD-1138,2023-12-20,David Davis,Phoenix,Mechanical Keyboard,Accessories,5.0,89.99,449.95
+ORD-1062,2023-08-01,Thomas Jones,Phoenix,USB-C Hub,Accessories,2.0,49.99,99.98
+ORD-1135,2023-09-03,Lisa Miller,Houston,LED Desk Lamp,Furniture,10.0,34.99,
+ORD-1128,2023-08-27,Joseph Brown,New York,Webcam HD,Electronics,9.0,79.99,719.91
+ORD-1239,2023-07-09,Mary Jones,Phoenix,Laptop Stand,Accessories,7.0,39.99,279.93
+ORD-1008,2023-05-17,David Johnson,Chicago,Laptop Pro,Electronics,2.0,1299.99,2599.98
+ORD-1326,2023-05-04,Michael Brown,Houston,Mechanical Keyboard,Accessories,8.0,89.99,719.92
+ORD-1344,2023-05-20,Sarah Brown,Chicago,"Monitor 27""",Electronics,2.0,349.99,699.98
+ORD-1064,2023-07-15,Robert Davis,Chicago,Headphones,Audio,1.0,149.99,149.99
+ORD-1300,2023-06-11,Jennifer Smith,Houston,"Monitor 27""",Electronics,10.0,349.99,3499.9
+ORD-1014,2023-07-30,Mary Johnson,Philadelphia,Wireless Mouse,Accessories,2.0,29.99,59.98
+ORD-1156,2023-07-31,Mary Wilson,Chicago,"Monitor 27""",Electronics,3.0,349.99,1049.97
+ORD-1040,2023-10-04,Susan Brown,New York,Headphones,Audio,5.0,149.99,
+ORD-1379,2023-04-29,Linda Smith,San Diego,LED Desk Lamp,Furniture,10.0,34.99,349.9
+ORD-1507,2023-05-01,Jennifer Davis,San Antonio,"Monitor 27""",Electronics,5.0,349.99,1749.95
+ORD-1451,2023-01-07,Jessica Brown,Phoenix,Wireless Mouse,Accessories,8.0,,239.92
+ORD-1216,2023-04-29,Thomas Miller,Philadelphia,Laptop Pro,Electronics,3.0,1299.99,3899.97
+ORD-1409,2023-10-18,Karen Brown,Los Angeles,Mechanical Keyboard,Accessories,10.0,89.99,899.9
+ORD-1279,2023-10-29,Joseph Davis,Dallas,Headphones,Audio,1.0,149.99,149.99
+ORD-1480,2023-10-24,Thomas Brown,Phoenix,LED Desk Lamp,Furniture,4.0,,139.96
+ORD-1476,2023-02-28,John Johnson,New York,Laptop Stand,Accessories,9.0,39.99,359.91
+ORD-1337,2023-12-25,Michael Williams,Los Angeles,Laptop Pro,Electronics,3.0,1299.99,
+ORD-1236,2023-09-05,Jessica Williams,San Antonio,Wireless Mouse,Accessories,6.0,29.99,179.94
+ORD-1207,2023-02-10,Michael Williams,San Antonio,Laptop Stand,Accessories,10.0,39.99,399.9
+ORD-1212,2023-12-02,David Brown,Philadelphia,Laptop Pro,Electronics,9.0,1299.99,11699.91
+ORD-1295,2023-09-15,Barbara Moore,San Diego,LED Desk Lamp,Furniture,1.0,,34.99
+ORD-1504,2023-01-29,Susan Johnson,San Antonio,"Monitor 27""",Electronics,8.0,349.99,2799.92
+ORD-1251,2023-11-04,Linda Jones,Phoenix,Laptop Pro,Electronics,8.0,1299.99,10399.92
+ORD-1182,2023-04-24,Thomas Wilson,Austin,Webcam HD,Electronics,7.0,79.99,559.93
+ORD-1505,2023-06-07,,Austin,USB-C Hub,Accessories,6.0,49.99,299.94
+ORD-1303,2023-07-20,Charles Jones,Dallas,Laptop Stand,Accessories,8.0,39.99,319.92
+ORD-1350,2023-12-18,Mary Smith,Chicago,Webcam HD,Electronics,2.0,79.99,159.98
+ORD-1269,2023-03-29,Joseph Moore,Los Angeles,Laptop Pro,Electronics,1.0,1299.99,1299.99
+ORD-1501,2023-09-06,Mary Johnson,Phoenix,"Monitor 27""",Electronics,9.0,349.99,3149.91
+ORD-1201,2023-03-09,Linda Miller,Los Angeles,Webcam HD,Electronics,2.0,79.99,159.98
+ORD-1161,2023-07-04,Sarah Davis,San Diego,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1043,2023-10-17,Susan Wilson,Philadelphia,"Monitor 27""",Electronics,10.0,,3499.9
+ORD-1217,2023-12-06,Linda Jones,Philadelphia,Headphones,Audio,2.0,149.99,299.98
+ORD-1401,2023-09-25,Barbara Smith,Austin,USB-C Hub,Accessories,4.0,49.99,199.96
+ORD-1190,2023-07-16,Thomas Davis,San Diego,Webcam HD,Electronics,1.0,79.99,79.99
+ORD-1309,2023-10-31,Thomas Smith,Chicago,Headphones,Audio,1.0,149.99,149.99
+ORD-1259,2023-04-01,Mary Smith,Houston,USB-C Hub,Accessories,2.0,49.99,99.98
+ORD-1105,2023-08-14,Barbara Miller,San Antonio,Mechanical Keyboard,Accessories,6.0,89.99,539.94
+ORD-1053,2023-05-03,John Williams,,Mechanical Keyboard,Accessories,4.0,89.99,359.96
+ORD-1389,2023-04-05,Susan Smith,New York,LED Desk Lamp,Furniture,9.0,34.99,314.91
+ORD-1001,2023-05-23,James Williams,Philadelphia,Mechanical Keyboard,Accessories,9.0,89.99,809.91
+ORD-1487,2023-03-20,Lisa Johnson,Dallas,Laptop Pro,Electronics,3.0,1299.99,3899.97
+ORD-1359,2023-10-01,Joseph Garcia,Dallas,Laptop Stand,Accessories,7.0,39.99,279.93
+ORD-1049,2023-05-25,Michael Jones,Chicago,"Monitor 27""",Electronics,10.0,349.99,3499.9
+ORD-1419,2023-10-21,Jessica Garcia,Phoenix,Laptop Pro,Electronics,,1299.99,10399.92
+ORD-1080,2023-02-26,James Williams,,USB-C Hub,Accessories,3.0,49.99,149.97
+ORD-1205,2023-03-09,Charles Miller,Chicago,Laptop Stand,Accessories,1.0,39.99,
+ORD-1034,2023-11-01,Joseph Moore,Dallas,USB-C Hub,Accessories,8.0,49.99,399.92
+ORD-1430,2023-05-16,John Davis,Houston,Headphones,Audio,6.0,149.99,899.94
+ORD-1263,2023-03-09,James Moore,Los Angeles,Headphones,Audio,1.0,,149.99
+ORD-1427,2023-06-29,Barbara Jones,New York,Headphones,Audio,2.0,149.99,299.98
+ORD-1454,2023-01-29,Susan Smith,Philadelphia,Wireless Mouse,Accessories,,29.99,299.9
+ORD-1443,2023-04-09,Thomas Johnson,Dallas,"Monitor 27""",Electronics,6.0,349.99,2099.94
+ORD-1366,2023-06-22,Charles Smith,Phoenix,Headphones,Audio,5.0,149.99,749.95
+ORD-1091,2023-07-22,Mary Smith,Houston,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1339,2023-09-01,Karen Jones,Chicago,USB-C Hub,Accessories,1.0,49.99,48.19
+ORD-1133,2023-09-21,Lisa Garcia,Austin,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1052,2023-09-25,Joseph Jones,San Antonio,Headphones,Audio,10.0,149.99,1499.9
+ORD-1345,2023-04-30,James Davis,San Antonio,"Monitor 27""",Electronics,3.0,349.99,1049.97
+ORD-1264,2023-01-25,James Smith,San Antonio,"Monitor 27""",Electronics,9.0,349.99,3149.91
+ORD-1241,2023-02-10,Mary Wilson,Dallas,SSD 1TB,Storage,10.0,99.99,999.9
+ORD-1013,2023-05-02,Sarah Brown,Austin,Wireless Mouse,Accessories,1.0,29.99,29.99
+ORD-1315,24/09/2023,,Philadelphia,"Monitor 27""",Electronics,4.0,349.99,2053.38
+ORD-1088,2023-06-08,Susan Smith,Chicago,"Monitor 27""",Electronics,1.0,349.99,349.99
+ORD-1387,2023-08-17,Jennifer Johnson,Houston,USB-C Hub,,1.0,,49.99
+ORD-1273,2023-07-17,Karen Moore,Chicago,Mechanical Keyboard,Accessories,8.0,89.99,719.92
+ORD-1166,2023-04-02,Patricia Wilson,Houston,Laptop Pro,Electronics,9.0,1299.99,11699.91
+ORD-1328,2023-10-23,Thomas Miller,Dallas,USB-C Hub,Accessories,9.0,49.99,449.91
+ORD-1248,2023-01-30,Joseph Smith,Houston,Laptop Stand,Accessories,10.0,39.99,300.16
+ORD-1134,2023-01-09,Patricia Miller,New York,Laptop Stand,Accessories,8.0,39.99,319.92
+ORD-1306,2023-10-06,Richard Miller,Los Angeles,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1484,2023-03-15,Charles Johnson,Chicago,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1059,2023-09-23,Sarah Davis,Houston,Laptop Pro,Electronics,9.0,1299.99,11699.91
+ORD-1319,2023-12-31,Mary Williams,San Diego,Headphones,,7.0,149.99,1049.93
+ORD-1243,2023-10-10,William Wilson,New York,Webcam HD,Electronics,2.0,79.99,159.98
+ORD-1054,2023-11-17,Michael Miller,Houston,"Monitor 27""",Electronics,8.0,349.99,2249.6
+ORD-1363,2023-04-22,David Davis,Austin,"Monitor 27""",Electronics,2.0,349.99,
+ORD-1050,2023-11-23,Sarah Johnson,Austin,Laptop Pro,Electronics,9.0,1299.99,11699.91
+ORD-1503,2023-06-10,Charles Miller,Houston,SSD 1TB,Storage,2.0,99.99,199.98
+ORD-1174,2023-10-12,Patricia Smith,Dallas,USB-C Hub,Accessories,2.0,49.99,99.98
+ORD-1445,2023-10-03,James Davis,Los Angeles,SSD 1TB,Storage,1.0,99.99,99.99
+ORD-1189,2023-11-27,Jennifer Wilson,Phoenix,USB-C Hub,Accessories,8.0,49.99,399.92
+ORD-1057,2023-11-22,John Davis,Philadelphia,SSD 1TB,Storage,5.0,99.99,499.95
+ORD-1463,16/03/2023,David Williams,,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1187,2023-07-18,Charles Johnson,San Diego,SSD 1TB,Storage,9.0,99.99,899.91
+ORD-1475,2023-06-24,Jennifer Johnson,Dallas,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1169,2023-10-18,Mary Johnson,Phoenix,Laptop Pro,Electronics,4.0,,5199.96
+ORD-1510,2023-11-29,Lisa Miller,Philadelphia,Mechanical Keyboard,Accessories,9.0,89.99,809.91
+ORD-1058,2023-10-09,,Phoenix,SSD 1TB,Storage,5.0,99.99,499.95
+ORD-1474,2023-06-11,Barbara Jones,Philadelphia,Wireless Mouse,Accessories,10.0,29.99,
+ORD-1252,2023-12-13,Lisa Miller,New York,Webcam HD,Electronics,8.0,79.99,639.92
+ORD-1021,2023-12-01,Karen Jones,Los Angeles,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1313,14/12/2023,Thomas Miller,New York,USB-C Hub,Accessories,10.0,49.99,499.9
+ORD-1459,2023-05-30,James Brown,Dallas,Webcam HD,Electronics,7.0,79.99,559.93
+ORD-1160,02/03/2023,Sarah Brown,Houston,Webcam HD,Electronics,5.0,79.99,399.95
+ORD-1276,2023-12-02,David Garcia,Houston,LED Desk Lamp,Furniture,5.0,34.99,174.95
+ORD-1191,2023-10-03,Joseph Moore,San Diego,Laptop Pro,Electronics,4.0,1299.99,5199.96
+ORD-1385,2023-06-15,Jennifer Johnson,San Diego,LED Desk Lamp,Furniture,4.0,34.99,139.96
+ORD-1413,2023-01-28,,Philadelphia,"Monitor 27""",Electronics,1.0,,349.99
+ORD-1491,2023-10-26,,Philadelphia,Laptop Pro,Electronics,10.0,1299.99,20644.03
+ORD-1343,2023-11-10,William Jones,Dallas,Wireless Mouse,Accessories,7.0,29.99,209.93
+ORD-1308,2023-03-02,Jessica Garcia,San Diego,USB-C Hub,Accessories,3.0,49.99,149.97
+ORD-1130,2023-05-25,Sarah Jones,Los Angeles,Mechanical Keyboard,Accessories,4.0,89.99,359.96
+ORD-1099,2023-05-07,Joseph Wilson,Chicago,Webcam HD,Electronics,2.0,79.99,159.98
+ORD-1372,2023-12-04,Patricia Smith,San Antonio,Laptop Pro,Electronics,2.0,1299.99,2599.98
+ORD-1087,2023-05-23,Jessica Wilson,Austin,Wireless Mouse,Accessories,6.0,,179.94
+ORD-1458,2023-03-17,Michael Wilson,New York,Wireless Mouse,Accessories,2.0,29.99,59.98
+ORD-1330,2023-11-10,Jennifer Davis,San Antonio,Laptop Stand,Accessories,5.0,39.99,199.95
+ORD-1214,2023-07-08,Sarah Brown,Dallas,LED Desk Lamp,Furniture,5.0,,174.95
+ORD-1466,2023-12-10,Thomas Miller,Philadelphia,Laptop Pro,Electronics,2.0,1299.99,2599.98
+ORD-1121,2023-04-13,Linda Davis,,USB-C Hub,Accessories,6.0,49.99,299.94
+ORD-1020,2023-02-21,Michael Wilson,Philadelphia,Wireless Mouse,Accessories,1.0,29.99,29.99
+ORD-1071,2023-05-27,Linda Moore,Houston,Laptop Pro,Electronics,10.0,1299.99,12999.9
+ORD-1106,2023-10-11,Thomas Johnson,Chicago,"Monitor 27""",Electronics,1.0,349.99,349.99
+ORD-1270,2023-09-02,Jennifer Johnson,New York,SSD 1TB,Storage,5.0,99.99,499.95
+ORD-1435,2023-08-13,Robert Smith,Austin,Wireless Mouse,Accessories,6.0,29.99,179.94
+ORD-1102,2023-07-05,,Houston,Laptop Stand,Accessories,2.0,39.99,79.98
